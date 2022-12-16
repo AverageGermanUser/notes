@@ -27,10 +27,12 @@ button {
 	font-weight: 600;
 	cursor: pointer;
 	/* color: #08c; */
-	color: rgb(0, 162, 255);
+	/* color: rgb(0, 162, 255); */
+	color: #0a84ff;
 }
 button:hover {
-	color: rgb(48, 106, 223);
+	/* color: #1408c0, */
+	color: rgb(28, 108, 228);
 	/* color: rgb(0, 162, 255); */
 }
 
@@ -68,7 +70,8 @@ button:hover {
 	justify-content: space-between;
 }
 .app-sidebar-note button {
-	color: crimson;
+	/* color: crimson; */
+	color:#ff0a0a;
 }
 .app-sidebar-note p {
 	margin: 10px 0;
