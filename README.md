@@ -16,6 +16,6 @@ This will launch the application through a localhost [http://localhost:3000](htt
 
 ### `live demo`
 
-You can also test the application [live](https://AverageGermanUser.github.io/notes)
+You can also test the application [live](https://AverageGermanUser.github.io/notes).
 
 &copy; AverageGermanUser
