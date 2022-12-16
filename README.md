@@ -12,6 +12,10 @@ This project was created with the attempt to get familiar with `React`. The basi
 
 ### `npm start`
 
-This will launcg the application through a localhost [http://localhost:3000](http://localhost:3000) in your browser, where you can use the application for taking notes.
+This will launch the application through a localhost [http://localhost:3000](http://localhost:3000) in your browser, where you can use the application for taking notes.
+
+### `live demo`
+
+You can also test the application [live](https://AverageGermanUser.github.io/notes)
 
 &copy; AverageGermanUser
