@@ -4,6 +4,10 @@ This project was created with the attempt to get familiar with `React`. The basi
 
 **Note: At the moment `no`, additional development is intended!**
 
+## Preview
+
+![alt text](https://i.imgur.com/9GEmTTg.png)
+
 ## Usage
 
 ### `npm start`
